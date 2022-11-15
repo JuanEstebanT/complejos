@@ -1,4 +1,4 @@
 # Complejos
 
-Uni distri lokas
+Actividad de numeros complejos
 
